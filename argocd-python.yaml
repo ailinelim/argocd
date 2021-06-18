@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: tree/main/python-manifests
+    path: main/python-manifests
     repoURL: https://github.com/ailinelim/argocd
     targetRevision: HEAD
   syncPolicy: {}
