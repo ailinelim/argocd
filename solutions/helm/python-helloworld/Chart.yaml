@@ -4,7 +4,7 @@ description: Install a Python HelloWorld deployment
 keywords:
 - python
 - helloworld 
-version: 1.1.0
+version: 3.7.0
 maintainers:
 - name: ailinelim 
-  email:ailinelim@xyz.com
+  email: ailinelim@xyz.com
